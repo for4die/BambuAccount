@@ -1,6 +1,3 @@
-# BambuAccount
-A Bookkeeping app named BambuAccount
+# 记小哥
 
-IOS client: search "BambuAccount" in App Store
-
-ANDROID client: https://play.google.com/store/apps/details?id=com.bambuaccountcashbook
+记小哥问题反馈
